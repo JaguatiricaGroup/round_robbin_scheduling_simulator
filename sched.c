@@ -1,13 +1,9 @@
+
 /*
-*  sched.c - Implementacao da API do escalonador de processos
+*  rrprio.c - Implementacao do algoritmo Round Robin com Prioridades
 *
-*  Autor: Marcelo Moreno
+*  Autores: Leticia Florentino Pires, Gabriel Dias de Abreu with Marcelo Moreno Orientation
 *  Projeto: Trabalho Pratico I - Sistemas Operacionais
-*  Organizacao: Universidade Federal de Juiz de Fora
-*  Departamento: Dep. Ciencia da Computacao
-*
-*  => NAO MODIFIQUE ESTE ARQUIVO <=
-*
 */
 
 #include <stdio.h>
